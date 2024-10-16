@@ -62,7 +62,7 @@ Here are a few examples of how to use the script:
    - Input `16` when asked for the target sum.
    - Output:
      ```
-     A possible unique combination of four digits that sums to 16 is: [1, 4, 5, 6]
+     A possible unique combination of four digits that sums to 16 is: [1, 2, 4, 9]
      ```
 
 - **Example 2**: Solving for a product of 450 using Puzzle 3.
@@ -71,8 +71,8 @@ Here are a few examples of how to use the script:
    - Output:
      ```
      Two two-digit numbers that multiply to 450 are: 15 and 30
-     A possible set of four digits that sums to 15 is: [1, 4, 5, 5]
-     A possible set of four digits that sums to 30 is: [7, 8, 9, 6]
+     A possible set of four digits that sums to 15 is: [1, 2, 3, 9]
+     A possible set of four digits that sums to 30 is: [6, 7, 8, 9]
      ```
 
 ## Important Notes
