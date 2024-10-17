@@ -9,7 +9,7 @@ def find_unique_combination(target, operation='sum'):
     Find a set of four unique digits between 1 and 9 that reach the target
     using the specified operation ('sum' or 'multiply').
     """
-    digits = range(1, 10)
+    digits = range(1, 9)
     # Generate all possible combinations of four unique digits
     combinations = itertools.permutations(digits, 4)
     
