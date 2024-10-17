@@ -7,7 +7,7 @@ function getTargetNumber() {
 }
 
 function findUniqueCombination(target, operation = 'sum') {
-    const digits = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+    const digits = [1, 2, 3, 4, 5, 6, 7, 8];
 
     // Generate all permutations of 4 digits
     const combinations = getPermutations(digits, 4);
